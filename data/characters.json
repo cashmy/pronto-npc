@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "firstName": "Farah",
+    "lastName": "Noosecatcher",
+    "ageCategory": "an adult",
+    "race": "dragon-born",
+    "build": "tall and ripped",
+    "hairColor": "flowing dark/black hair",
+    "intelligence": "street smart, not book smart",
+    "briefDescription": "with broad shoulders and a low cut tunic",
+    "wantsAndNeeds": "who says their family has been possessed/poisoned",
+    "secretsOrObstacles": "and is a part time cult leader.",
+    "carryingItems": "Sheet music from a bard you have never heard of. A -1 Charisma pinky ring.",
+    "genderProfile": {
+      "value": "female",
+      "subject": "she",
+      "verb": "is",
+      "object": "her",
+      "possession": "hers"
+    },
+    "notes": "Brother is Hadley (Faternal Twins).",
+    "bulkGenerated": "false",
+    "reviewed": "true"
+  },
+  {
+    "id": 2,
+    "firstName": "Hadley",
+    "lastName": "Noosecatcher",
+    "ageCategory": "an adult",
+    "race": "dragon-born",
+    "build": "tall and lean",
+    "hairColor": "flowing dark/black hair",
+    "intelligence": "book smart, not street smart",
+    "briefDescription": "with a steady gaze and pursed lips",
+    "wantsAndNeeds": "who needs enough incense to bring back their familiar",
+    "secretsOrObstacles": "and is a magic school dropout",
+    "carryingItems": "1gp, 9sp, 5cp. A vial of wyvern poison.",
+    "genderProfile": {
+      "value": "male",
+      "subject": "he",
+      "verb": "is",
+      "object": "him",
+      "possession": "his"
+    },
+    "notes": "Sister is Farah (Faternal Twins).",
+    "bulkGenerated": "false",
+    "reviewed": "true"
+  }
+]

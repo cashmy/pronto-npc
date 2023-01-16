@@ -1,0 +1,4 @@
+{firstName} {lastName} is {ageCategory} {race}.
+{genderProfile.subject}.upper() {genderProfile.verb} {build} with {hairColor}.
+{firstName} is {intelligence}, {briefDescription} {wantsAndNeeds} {secretsOrObstacles}.
+{firstName} is carrying: {carryingItems}.
