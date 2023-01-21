@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "campaign_id": 1,
+    "adventure_id": 1,
+    "name": "Coming Together/Being Committed - The First Session",
+    "sessionDate": "2023-01-15",
+    "description": "An adventure's mother, a secret anti-cult spy, enlists their aid to stop a hapless but dangerous demonic summoning cult.",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "campaign_id": 1,
+    "adventure_id": 1,
+    "name": "The Wrestling Match",
+    "sessionDate": "2023-01-22",
+    "description": "Scoping out Two Doors Tavern",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "campaign_id": 1,
+    "adventure_id": 1,
+    "name": "The Stein Heist",
+    "sessionDate": "2023-01-29",
+    "description": "Retrieving the Stein of the Gods for Twin Triad ritual disruption.",
+    "status": "Planned"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "campaign_id": 1,
+    "name": "Mother Knows Best",
+    "sessionCount": 4,
+    "description": "Rooting out the evil in the world, one demonic summoning cult at a time."
+  },
+  {
+    "id": 2,
+    "campaign_id": 1,
+    "name": "One For The Books",
+    "sessionCount": 6,
+    "description": "Time to take out the competition!"
+  }
+]

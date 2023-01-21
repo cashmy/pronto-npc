@@ -21,7 +21,11 @@
     },
     "notes": "Brother is Hadley (Faternal Twins).",
     "bulkGenerated": "false",
-    "reviewed": "true"
+    "reviewed": "true",
+    "group": "General",
+    "subGroup": "",
+    "currentLocation": "undetermined",
+    "profession": "Cult Leader"
   },
   {
     "id": 2,
@@ -45,6 +49,39 @@
     },
     "notes": "Sister is Farah (Faternal Twins).",
     "bulkGenerated": "false",
-    "reviewed": "true"
+    "reviewed": "true",
+    "group": "General",
+    "subGroup": "",
+    "currentLocation": "undetermined",
+    "profession": "Magic School Dropout"
+  },
+  {
+    "id": 3,
+    "firstName": "Lady",
+    "lastName": "Kree",
+    "ageCategory": "a middle-aged",
+    "race": "kenku noble",
+    "build": "a round build",
+    "hairColor": "jet black feathers",
+    "intelligence": "devious and cunning",
+    "briefDescription": "...",
+    "wantsAndNeeds": "...",
+    "secretsOrObstacles": "the engagement ring, a gift from her first husband which she has never once removed, is (unbeknownst to her) a legendary cursed ring known as the Spleen of the Dream Ender.",
+    "carryingItems": "70gp from other provinces. An intricately carved gold ring set with a single carbochon of Tsavorite that smells of sulfur and decay, which when held to one/'s ear, gives off the sound of almost imperceptible screams.",
+    "genderProfile": {
+      "value": "female",
+      "subject": "she",
+      "verb": "is",
+      "object": "her",
+      "possession": "hers"
+    },
+    "notes": "Sister is Farah (Faternal Twins).",
+    "bulkGenerated": "false",
+    "reviewed": "true",
+    "group": "Big City Denizens",
+    "subGroup": "Nobles & Leaders",
+    "currentLocation": "undetermined",
+    "profession": "idle noble",
+    
   }
 ]

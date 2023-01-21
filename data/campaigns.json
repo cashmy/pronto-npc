@@ -2,8 +2,17 @@
   {
     "id": 1,
     "name": "Rogues Guild",
-    "DM_username": "DM1",
-    "world": "",
+    "DM_username": "Cash Myers",
+    "world": "Terrenus",
+    "system": "Hybrid 3.5/5e",
     "description": "A group of assassins thieves & assassins who work together (somewhat) to steal from the rich and give to themselves!"
+  },
+  {
+    "id": 2,
+    "name": "Queen of Lies",
+    "DM_username": "Illianna",
+    "world": "Morganna",
+    "system": "3.5e",
+    "description": "Lilith the Queen of the Drow Elves -- needs to die."
   }
 ]
